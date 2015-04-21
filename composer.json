@@ -1,5 +1,5 @@
 {
-	"name": "augusto-cdxs/asset_compress",
+	"name": "markstory/asset_compress",
 	"description": "An asset compression plugin for CakePHP. Provides file concatenation and a flexible filter system for preprocessing and minification.",
 	"type": "cakephp-plugin",
 	"keywords": ["cakephp", "assets", "minifier", "less", "coffee-script", "sass"],
@@ -18,7 +18,7 @@
 	},
 	"require": {
 		"cakephp/cakephp": "~3.0",
-		"augusto-cdxs/mini-asset": "dev-master"
+		"markstory/mini-asset": "dev-master"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "4.1.*"
